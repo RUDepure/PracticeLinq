@@ -1,0 +1,7 @@
+C:\Users\alexr\Documents\Repos\PracticeLinq\PracticeLinq\bin\Debug\PracticeLinq.exe.config
+C:\Users\alexr\Documents\Repos\PracticeLinq\PracticeLinq\bin\Debug\PracticeLinq.exe
+C:\Users\alexr\Documents\Repos\PracticeLinq\PracticeLinq\bin\Debug\PracticeLinq.pdb
+C:\Users\alexr\Documents\Repos\PracticeLinq\PracticeLinq\obj\Debug\PracticeLinq.csproj.AssemblyReference.cache
+C:\Users\alexr\Documents\Repos\PracticeLinq\PracticeLinq\obj\Debug\PracticeLinq.csproj.CoreCompileInputs.cache
+C:\Users\alexr\Documents\Repos\PracticeLinq\PracticeLinq\obj\Debug\PracticeLinq.exe
+C:\Users\alexr\Documents\Repos\PracticeLinq\PracticeLinq\obj\Debug\PracticeLinq.pdb
